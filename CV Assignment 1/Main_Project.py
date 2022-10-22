@@ -1,7 +1,7 @@
 #Loiy Ehsan 1830887
 #10/21/2022
 
-from Packages.dependencies import *
+from Dependencies import *
 from tkinter import *
 from tkinter import ttk
 
